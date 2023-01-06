@@ -47,3 +47,7 @@ table {
 	border-spacing: 0;
 }
 /* ========= ^^^ RESET ^^^ ========== */
+
+.green_text {
+    color: green;
+}
